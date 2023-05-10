@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/699320106978639874)](https://discord.com/users/699320106978639874)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699320106978639874?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Aan%20het%20vervelen...)](https://discord.com/users/699320106978639874)
 
 
 <!--
