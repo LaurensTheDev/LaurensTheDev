@@ -1,4 +1,4 @@
-![Discord Presence](https://lanyard.kyrie25.me/api/699320106978639874?waveColor=FF597B&waveSpotifyColor=FF597B)
+![Discord Presence](https://lanyard.kyrie25.me/api/699320106978639874?waveColor=1168ba&waveSpotifyColor=34ba11)
 
 
 <!--
