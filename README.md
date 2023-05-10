@@ -1,4 +1,5 @@
-![](https://dcbadge.vercel.app/api/shield/699320106978639874)
+[![Discord Presence](https://lanyard.cnrad.dev/api/699320106978639874)](https://discord.com/users/699320106978639874)
+
 
 <!--
 **LaurensTheDev/LaurensTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
